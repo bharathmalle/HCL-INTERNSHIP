@@ -44,7 +44,7 @@ Clone this repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/your-username/employee-management-system.git
+git clone https://github.com/bharathmalle/HCL-INTERNSHIP.git
 Install XAMPP and start the Apache and MySQL servers.
 
 
